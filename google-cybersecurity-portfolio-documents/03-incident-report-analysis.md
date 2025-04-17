@@ -1,5 +1,7 @@
 # Incident Report Analysis
 
+[Supporting Documents](/google-cybersecurity-portfolio-documents/03-incidident-report-analysis-supporting-documents)
+
 ## Summary
 On Friday, March 28, 2025, the organization experienced a Distributed Denial of Service (DDoS) attack that disrupted internal network services for approximately two hours. The incident was caused by an external flood of ICMP packets, which overwhelmed the network infrastructure and made internal systems unresponsive.
 
