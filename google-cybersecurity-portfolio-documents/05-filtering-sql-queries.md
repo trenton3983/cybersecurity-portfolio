@@ -1,4 +1,4 @@
-# Apply Filters to SQL Queries – Portfolio Activity
+# Apply Filters to SQL Queries
 
 ## Project Description
 In this project, I used SQL to examine login activity and employee records for a simulated cybersecurity scenario. Using logical and pattern-matching operators like `AND`, `OR`, `NOT`, and `LIKE`, I retrieved relevant data from relational tables. These queries demonstrate how SQL supports threat investigation, anomaly detection, and system auditing within an enterprise environment.
