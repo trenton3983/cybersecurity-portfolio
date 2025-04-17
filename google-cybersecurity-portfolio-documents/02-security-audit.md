@@ -1,5 +1,7 @@
 # Botium Toys Security Audit
 
+[Supporting Documents](/google-cybersecurity-portfolio-documents/02-security-audit-supporting-documents)
+
 ## Step 1: Review Supporting Materials
 
 ### Audit Scope and Goals
