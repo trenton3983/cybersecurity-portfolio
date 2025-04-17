@@ -2,6 +2,8 @@
 
 **A curated collection of cybersecurity projects developed in partial fulfillment of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity). This portfolio demonstrates practical skills in threat analysis, vulnerability assessment, network security, and incident response using Python, Linux, SQL, and open-source tools. Projects reflect hands-on labs and real-world scenarios aligned with industry best practices for entry-level security roles.**
 
+[Google Cybersecurity Professional Course Overview](/google-cybersecurity-portfolio-documents/00-program-overview.md)
+
 ## Activities
 
 - [Personal Statement](/google-cybersecurity-portfolio-documents/01-personal-statement.md)
