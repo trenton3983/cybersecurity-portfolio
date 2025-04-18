@@ -6,13 +6,19 @@
 
 [Google Cybersecurity Professional Course Overview](/google-cybersecurity-portfolio-documents/00-program-overview.md)
 
-## Activities
+## Portfolio Activities
 
 - [Personal Statement](/google-cybersecurity-portfolio-documents/01-personal-statement.md)
 - [Botium Toys Security Audit](/google-cybersecurity-portfolio-documents/02-security-audit.md)
 - [Incident Report Analysis](/google-cybersecurity-portfolio-documents/03-incident-report-analysis.md)
 - [Examine and Manage File and Directory Permissions in Linux](/google-cybersecurity-portfolio-documents/04-linux-file-permissions.md)
 - [Apply Filters to SQL Queries](/google-cybersecurity-portfolio-documents/05-filtering-sql-queries.md)
+- [Home Office Asset Inventory](/google-cybersecurity-portfolio-documents/06-asset-inventory.md)
+- [Risk Register](/google-cybersecurity-portfolio-documents/07-risk-register.md)
+- [Data Handling Control](/google-cybersecurity-portfolio-documents/08-data-handling.md)
+- [Decrypting Encrypted Files in Linux](/google-cybersecurity-portfolio-documents/09-message-decryption.md)
+- [Generate Hashes for Files](/google-cybersecurity-portfolio-documents/10-hashes.md)
+- [Access Control Assessment](/google-cybersecurity-portfolio-documents/11-access-control-incident.md)
 
 ## Certificates
 
