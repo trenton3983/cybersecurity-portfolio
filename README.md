@@ -19,6 +19,8 @@
 - [Decrypting Encrypted Files in Linux](/google-cybersecurity-portfolio-documents/09-message-decryption.md)
 - [Generate Hashes for Files](/google-cybersecurity-portfolio-documents/10-hashes.md)
 - [Access Control Assessment](/google-cybersecurity-portfolio-documents/11-access-control-incident.md)
+- [Hardware Vulnerability Assessment](/google-cybersecurity-portfolio-documents/12-vulnerability-assessment.md)
+- [USB Drive Attack Vectors](/google-cybersecurity-portfolio-documents/13-attack-vectors.md)
 
 ## Certificates
 
