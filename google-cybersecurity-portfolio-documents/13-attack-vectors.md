@@ -23,7 +23,7 @@ Back in your office, you plug the USB drive into a **virtualized workstation**. 
 
 The USB appears to belong to **Jorge Bailey**, the hospital's HR manager. The drive contains:
 
-![Drive Contents](assets/images/usb-drive.png)
+![Drive Contents](../../assets/images/usb-drive.png)
 
 ---
 
