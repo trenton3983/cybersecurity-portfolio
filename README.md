@@ -29,7 +29,7 @@
 - [Play It Safe: Manage Security Risks](https://coursera.org/share/3b170bb4f6c90f51cd097138e18f071b)
 - [Connect and Protect: Networks and Network Security](https://coursera.org/share/4f1fede83dff5afc78efb13b5c7561e2)
 - [Tools of the Trade: Linux and SQL](https://coursera.org/share/203481cf705608089e19352064f70c5a)
-- Assets, Threats, and Vulnerabilities - In Progress
-- Sound the Alarm: Detection and Response - Not Yet Started
+- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/Q54S215MVOBC)
+- Sound the Alarm: Detection and Response - In Progress
 - Automate Cybersecurity Tasks with Python - Not Yet Started
 - Put It to Work: Prepare for Cybersecurity Jobs - Not Yet Started
