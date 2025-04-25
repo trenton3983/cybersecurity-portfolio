@@ -22,6 +22,7 @@
 - [Hardware Vulnerability Assessment](/google-cybersecurity-portfolio-documents/12-vulnerability-assessment.md)
 - [USB Drive Attack Vectors](/google-cybersecurity-portfolio-documents/13-attack-vectors.md)
 - [PASTA Threat Model](google-cybersecurity-portfolio-documents/14-PASTA-threat-modeling.md)
+- [Incident Handler's Journal](google-cybersecurity-portfolio-documents/15-incident-handler-journal.md)
 
 ## Certificates
 
