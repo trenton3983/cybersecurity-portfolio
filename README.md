@@ -21,6 +21,7 @@
 - [Access Control Assessment](/google-cybersecurity-portfolio-documents/11-access-control-incident.md)
 - [Hardware Vulnerability Assessment](/google-cybersecurity-portfolio-documents/12-vulnerability-assessment.md)
 - [USB Drive Attack Vectors](/google-cybersecurity-portfolio-documents/13-attack-vectors.md)
+- [PASTA Threat Model](google-cybersecurity-portfolio-documents/14-PASTA-threat-modeling.md)
 
 ## Certificates
 
