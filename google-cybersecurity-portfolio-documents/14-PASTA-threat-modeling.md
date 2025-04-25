@@ -85,7 +85,7 @@ These attack paths demonstrate how small configuration flaws can lead to serious
 
 # **ChatGPT assessment of the completed PASTA Threat Model** compared to the provided **Exemplar**
 
-[PASTA Threat Modeling Supporting Material]()
+[PASTA Threat Modeling Supporting Material](/google-cybersecurity-portfolio-documents/14-PASTA-threat-modeling-supporting-materials/)
 
 ## ✅ **Stage I – Define Business and Security Objectives**
 
