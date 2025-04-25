@@ -34,9 +34,9 @@ You will conduct a threat model of the application using the PASTA framework, wo
 
 **Step 2: Access supporting materials.**
 
-[Data flow diagram]()
+![Data flow diagram](../../assets/images/data-flow-diagram.png)
 
-[Sample attack tree]()
+![Sample attack tree](../../assets/images/sample-attack-tree.png)
 
 ---
 
